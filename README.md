@@ -1,26 +1,26 @@
 # SourceSage Frontend
-Our frontend codebase is written primarily in [ES2015/ES6](https://babeljs.io/docs/learn-es2015/), utilises [Flux architecture](https://facebook.github.io/flux/docs/overview.html) for state management while using [React](https://facebook.github.io/react/) for making UI components.
+Our frontend codebase is written primarily in [ES2015/ES6](https://babeljs.io/docs/learn-es2015/), utilises [Flux architecture](https://facebook.github.io/flux/docs/overview.html) for application state management while using [React](https://facebook.github.io/react/) for making UI components.
 
 We're on a lookout for passionate frontend developers who are always finding ways to reduce page load times for users. You strive to delight users with your creations. You learn fast in the face of ever-changing landscape of the web frontend. You can submit pull requests to the backend to fix endpoints that you directly interact with. And you know how to convert static photoshop designs from our UI/UX designer into UI components.
 
 Requirements:
-* Knowledge of the browser environment, and Web API's
-* Be able to code up responsive UI
-* Knowledge of cross-browser implications of your code - [caniuse.com](caniuse.com) is your friend.
-* Worked with Angular, Ember, React, Flux before.
+* Knowledge of the browser environment, DOM and Web API's
+* Be able to code up basic responsive UI
+* Awareness of the cross-browser implications of your code - [caniuse.com](http://caniuse.com) is your friend.
 * Have enough CSS knowledge to do basic layout using Flexbox, grids, floats, % widths, etc.
-* Can use chrome inspector or equivalent for debugging and performance tuning.
+* Have enough CSS knowledge to translate a given photoshop design into HTML and CSS.
+* Can use Chrome DevTools, or equivalent, for debugging and performance tuning.
 * Learn fast
 * Sensitive to performance - actual and perceived page load times
 
-General Programming Skills:
+Other Programming Skills:
 * Functional programming knowledge
 * Basic version control - we use `git`
 * Knowledge of other programming languages - we use `python` for our backend API.
 
 To contribute immediately, you would probably have to know these libraries:
 * [Redux](https://github.com/rackt/redux)
-* [React 0.14](https://facebook.github.io/react/)
+* [React](https://facebook.github.io/react/)
 * [ES2015](https://babeljs.io/docs/learn-es2015/)
 * Used some build tool before. (We use [webpack](https://webpack.github.io/) at Sourcesage)
 
