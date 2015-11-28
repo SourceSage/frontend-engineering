@@ -32,9 +32,9 @@ add(5)(2)
 evaluates to `7`.
 
 ## 5-minute Challenge
-* Code up a "Like" button similar to that of Facebook.
+* Code up a "Like" button similar to that of Facebook, in a declarative style. Be explicit about the states that the component could take, and how the UI should render for any given state. You should probably use React.
 
-## 10-15-minute Challenge
+## 10~15-minute Challenge
 * Suppose you have to make API calls to 2 endpoints `/posts`, and `/comments`. In order to get the full `comments` for a `post`, you need to supply the `/comments` endpoint with a `comment_id` in `POST` JSON body, which you can get from `post` data returned from the `/posts` endpoint. The data returned from `/posts` looks like this
 ```javascript
 {
