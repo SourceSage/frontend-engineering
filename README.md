@@ -23,6 +23,7 @@ To contribute immediately, you would probably have to know these libraries:
 * [React](https://facebook.github.io/react/)
 * [ES2015](https://babeljs.io/docs/learn-es2015/)
 * Used some build tool before. (We use [webpack](https://webpack.github.io/) at Sourcesage)
+* Be familiar with [Github Flow](https://guides.github.com/introduction/flow/)
 
 ## 1-minute Challenge
 Write javascript code so that the expression
